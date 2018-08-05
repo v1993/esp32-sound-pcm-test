@@ -1,0 +1,8 @@
+[submodule "components/esp32-sound"]
+	path = components/esp32-sound
+	url = https://github.com/v1993/esp32-sound.git
+	branch = dev
+[submodule "components/esp32-sound-pcm"]
+	path = components/esp32-sound-pcm
+	url = https://github.com/v1993/esp32-sound-pcm
+	branch = master
