@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := esp32-sound-test-pcm
+PROJECT_NAME := esp32-sound-pcm-test
 
 include $(IDF_PATH)/make/project.mk
 
