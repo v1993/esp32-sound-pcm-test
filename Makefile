@@ -4,6 +4,7 @@
 #
 
 PROJECT_NAME := esp32-sound-pcm-test
+EXTRA_COMPONENT_DIRS := my_main
 
 include $(IDF_PATH)/make/project.mk
 

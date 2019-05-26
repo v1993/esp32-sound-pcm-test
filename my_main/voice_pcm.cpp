@@ -1,4 +1,4 @@
-#include <numeric>
+#include <cstdint>
 
 const extern long unsigned int voice_length = 30000; // Nice!
 const extern uint8_t voice_data[] = {
